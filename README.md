@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @embedded40 Chuong
+- 👋 Hi, I’m @embedded40
 - 👀 I’m interested in hardware, software, and programing language 
 - 🌱 I’m currently learning 300 children's code lessons.
 - 💞️ I’m looking to collaborate on https://www.facebook.com/embedded.4.0
